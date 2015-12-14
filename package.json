@@ -1,0 +1,11 @@
+{
+  "name": "countdown",
+  "version": "0.1.0",
+  "description": "A reactjs countdown webpage",
+  "main": "countdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weston Novelli",
+  "license": "ISC"
+}
