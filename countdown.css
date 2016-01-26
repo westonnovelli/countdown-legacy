@@ -5,13 +5,14 @@ body {
 .date {
     text-align: center;
     font-size: 4vw;
-    padding-top: 4em;
+    padding-top: 1em;
 }
 
 .col-quarter {
     width: 25%;
-    float: left;
     text-align: center;
+    display: table-cell;
+    vertical-align: bottom;
 }
 
 .count {
@@ -20,6 +21,7 @@ body {
 
 .unit {
     font-size: 4vw;
+    clear: both;
 }
 
 .header {
@@ -28,4 +30,20 @@ body {
 
 .event {
     font-size: 6vw;
+}
+
+.lg {
+    font-size: 18vw;
+}
+
+.md {
+    font-size: 16vw;
+}
+
+.sm {
+    font-size: 14vw;
+}
+
+.xs {
+    font-size: 12vw;
 }
