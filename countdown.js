@@ -1,4 +1,4 @@
-var event = "McKinney & Olive Mostly Completion";
+var event = "McKinney & Olive Substantial Completion";
 var year = 2016;
 var month = 4; // starts at 0
 var day = 10;
