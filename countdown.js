@@ -2,9 +2,9 @@ var event = "McKinney & Olive Substantial Completion";
 var year = 2016;
 var month = 2; // starts at 0
 var day = 22;
-var hour = 0;
-var minute = 0;
-var second = 0;
+var hour = 11;
+var minute = 59;
+var second = 59;
 
 var Unit = React.createClass({
     render: function() {
