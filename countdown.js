@@ -2,7 +2,7 @@ var event = "McKinney & Olive Substantial Completion";
 var year = 2016;
 var month = 2; // starts at 0
 var day = 22;
-var hour = 11;
+var hour = 23;
 var minute = 59;
 var second = 59;
 
