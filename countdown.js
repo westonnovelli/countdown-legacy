@@ -115,9 +115,9 @@ function secsTill(milli) {
 }
 
 function timeTill(year, month, day, hour, minute, second) {
-    var end = new Date(year, month, day, hour, minute, second);
+    var end = new Date(year, month, day, hour+1, minute, second);
     var now = new Date();
-    return end - now;
+    return end - now ;
 }
 
 ReactDOM.render(
