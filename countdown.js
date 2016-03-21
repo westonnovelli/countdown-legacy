@@ -7,7 +7,7 @@ var event2Post = event2;
 var year = 2016;
 var month = 2; // starts at 0
 var day = 22;
-var hour = 23;
+var hour = 22;
 var minute = 59;
 var second = 59;
 
