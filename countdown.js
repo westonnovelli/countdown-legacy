@@ -163,7 +163,7 @@ function timeTill(year, month, day, hour, minute, second) {
 function timeSince(year, month, day, hour, minute, second) {
     var end = new Date(year, month, day, hour+1, minute, second);
     var now = new Date();
-    var cutoff = new Date('2016-08-01 23:59:59');
+    var cutoff = new Date(2016, 7, 1, 23, 59, 59);
     if (now > cutoff) {
 	now = cutoff;
     }
